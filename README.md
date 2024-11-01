@@ -84,4 +84,3 @@ Contributions are welcome! Please fork this repository and submit pull requests.
 
 For questions or suggestions, feel free to open an issue or contact [yousifmasoud8@gmail.com](mailto:your-email@example.com).
 
-Copy the above content into your `README.md` file to provide a clear and structured overview of your Arduino project. If you need any modifications or additional sections, let me know!
